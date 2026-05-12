@@ -46,10 +46,7 @@ Super-resolution is the task of recovering high-resolution (HR) images from low-
 
 ## Project Structure
 
-- `sr_comparative_study.py`: Main execution script containing model definitions, training loops, and evaluation logic.
-- `report.tex`: LaTeX source for the formal research report in Springer LNCS format.
-- `references.bib`: BibTeX file for academic citations.
-- `prompts.txt`: Documentation of LLM prompts used for project engineering.
+- `main_project.py`: Main execution script containing model definitions, training loops, and evaluation logic.
 - `ablation_results.csv`: Data from the diffusion sampler ablation study.
 
 ## Installation and Requirements
